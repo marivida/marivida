@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marivida
 - 👀 I’m interested in JavaScript, CSS and HTML
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 
 
 <!---
